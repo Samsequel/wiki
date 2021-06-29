@@ -108,6 +108,9 @@
 
     1. Notice that this image shows the version number `1.72.0` - use your actual version number in your settings.
   
+  1. Restart your Computer
+  
+    Restart your Computer to apply your User Variables and System Variables
 <br>
 
 ## Help
