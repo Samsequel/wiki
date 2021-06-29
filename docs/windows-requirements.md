@@ -91,7 +91,7 @@
        *when given the choice on where to copy the OpenSSL DLLs. These DLLs will need to be located easily for [Core Installation](windows-core-installation).*
   
 1. [Boost](https://www.boost.org/).
-
+    
     1. Download the prebuilt Windows Binary for Visual Studio 2019
 
     1. `1.70.0` is the minimum version required for Visual Studio 2019, but Version `1.74.0`is recommended
@@ -107,6 +107,9 @@
     </a>
 
     1. Notice that this image shows the version number `1.72.0` - use your actual version number in your settings.
+
+1. Restart your Computer
+    Restart your Computer to apply the changes to your Environment Variables.
   
 <br>
 
